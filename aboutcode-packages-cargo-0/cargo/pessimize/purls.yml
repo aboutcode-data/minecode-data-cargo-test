@@ -1,0 +1,3 @@
+- pkg:cargo/pessimize@1.0.0
+- pkg:cargo/pessimize@2.0.0
+- pkg:cargo/pessimize@2.0.1

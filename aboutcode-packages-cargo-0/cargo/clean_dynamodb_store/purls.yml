@@ -1,0 +1,2 @@
+- pkg:cargo/clean_dynamodb_store@0.0.1
+- pkg:cargo/clean_dynamodb_store@0.0.2

@@ -1,0 +1,5 @@
+- pkg:cargo/arm-pl011-uart@0.1.0
+- pkg:cargo/arm-pl011-uart@0.2.0
+- pkg:cargo/arm-pl011-uart@0.3.0
+- pkg:cargo/arm-pl011-uart@0.3.1
+- pkg:cargo/arm-pl011-uart@0.3.2
